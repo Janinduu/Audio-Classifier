@@ -38,8 +38,3 @@ The Bird Call Detection project aims to develop a deep learning-based system for
 
 Contributions to the Bird Call Detection project are welcome! Whether you're interested in improving model performance, enhancing data preprocessing techniques, or exploring new applications, your contributions are valuable to the project's success. To contribute, please follow the guidelines outlined in the CONTRIBUTING.md file.
 
-We extend our gratitude to the open-source community, research institutions, and contributors who have supported the development of the Bird Call Detection project. Your dedication and expertise have been instrumental in advancing the field of avian research and environmental conservation.
-
----
-
-Feel free to customize the content and structure of the README file to align with your project's specifics and requirements. Incorporating clear and comprehensive documentation will help users understand the project's objectives, procedures, and contributions effectively.
